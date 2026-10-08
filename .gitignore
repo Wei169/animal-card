@@ -1,0 +1,12 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Temp build files
+build_page.js
+capybara_base64.txt
+*.bat
+
