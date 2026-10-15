@@ -1,9 +1,9 @@
-# 🎴 奶油泡泡 - 3D 鐳射傳奇卡牌展示系統 (Cozy Legend TCG)
+# 🎴 米飛兔 Miffy - 3D 鐳射傳奇卡牌展示系統 (Cozy Legend TCG)
 
-> 專為療癒系水豚「奶油泡泡 · 午後發呆小隊長」打造的個人專屬 3D 鐳射反光卡牌展示網頁。  
+> 專為荷蘭繪本純真巨星「米飛兔 Miffy · 荷蘭風車花園小夥伴」打造的個人專屬 3D 鐳射反光卡牌展示網頁。  
 > 零建置依賴（Zero-dependency），單一檔案即可部署於 **GitHub Pages**！
 
-![卡牌立繪](capybara.jpg)
+![卡牌立繪](miffy.jpg)
 
 ---
 
@@ -15,24 +15,22 @@
   - `Rainbow Secret` 極光全息
   - `Gold Ultra` 黑金浮雕
   - `Silver Phantom` 冷冽銀鏡
-- **🎨 4 款主題配色即時切換**：奶茶拿鐵 / 櫻花草莓 / 晨曦薄荷 / 薰衣草晚安。
+- **🎨 4 款主題配色即時切換**：活力暖橘 / 鬱金香粉 / 花田青綠 / 澄澈晴空。
 - **🔄 3D 180° 卡背雙面翻轉**：典藏級 TCG 封印背面細節。
 - **✏️ 全卡面即時文字編輯**：點擊卡面文字即可使用 `contenteditable` 自由修改並即時預覽。
-- **🖼️ 本地立繪自由替換**：支援拖曳或上傳任意圖片，亦可一鍵還原預設水豚。
+- **🖼️ 本地立繪自由替換**：支援拖曳或上傳任意圖片，亦可一鍵還原預設米飛兔。
 - **📸 300DPI 4K 高畫質 PNG 匯出**：整合 `html2canvas`，一鍵下載收藏級卡牌圖片。
 - **📱 支援行動端陀螺儀感應**：支援手機傾斜感應卡牌反光與角度。
 
 ---
 
-## 🚀 如何在 GitHub Pages 上線
+## 🚀 線上體驗與 GitHub Pages
 
-1. 將本專案推送到您的 GitHub Repository。
-2. 前往儲存庫的 **Settings** > **Pages**。
-3. 在 **Build and deployment** > **Branch** 選擇 `main` 分支並選取 `/ (root)` 目錄。
-4. 點擊 **Save**，幾分鐘後即可透過專屬網址線上體驗！
+- **線上展示網址**：[https://wei169.github.io/animal-card/](https://wei169.github.io/animal-card/)
+- **專案儲存庫**：[https://github.com/Wei169/animal-card](https://github.com/Wei169/animal-card)
 
 ---
 
 ## 📄 版權與免責聲明
 
-© 2026 Wei Wei Cozy Card. All rights reserved.
+© 2026 Mercis bv / Wei Wei Cozy Card. All rights reserved.
